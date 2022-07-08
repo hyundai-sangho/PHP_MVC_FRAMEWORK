@@ -1,0 +1,15 @@
+{
+  "name": "teha007/php_mvc_framework",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "chosangho",
+      "email": "hyundai_sangho@naver.com"
+    }
+  ],
+  "require": {}
+}
